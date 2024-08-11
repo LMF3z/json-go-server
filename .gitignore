@@ -1,0 +1,36 @@
+# Compiled object files
+*.o
+*.a
+
+# Executables
+*.exe
+*.bin
+
+# Compiled Go binaries
+_obj/
+_test/
+_output/
+build/
+dist/
+bin/
+
+# Cache
+cache/
+
+# IDE files
+.idea/
+.vscode/
+
+# Local configuration files
+config.local.yaml
+database.local.yml
+
+# Other
+*.swp
+*.tmp
+*.bak
+*.old
+*.DS_Store
+
+# Generated files
+*.pb.go
