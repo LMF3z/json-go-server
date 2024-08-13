@@ -40,6 +40,6 @@ jsonGoServer -path=./<name>.json
 ```
 
 By default the server is running on **http://localhost:8000**
-to customize the port you can do it with the -port=<port> flag
+to customize the port you can do it with the **-port=port** flag
 
-6. On the endpoint **http://localhost:<port>/heroes** there will be an example response.
+6. On the endpoint **http://localhost:port/heroes** there will be an example response.
